@@ -1,6 +1,6 @@
 # ReportsGenerator
 
-**TODO: Add description**
+Given a CSV with foods and users, this project generates reports with these data. It also provides a function to run in parallel, making it possible to compare runtimes.
 
 ## Installation
 
